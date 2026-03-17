@@ -1,6 +1,7 @@
 Save the python file "HeartMula-Gradio-webUI_JELSTUDIO.py" in the examples folder and start from there with this run-command:
 
 python ./examples/HeartMula-Gradio-webUI_JELSTUDIO.py
+
 Check the CMD-output window to click the "http://127.0.0.1:7860" link to open the gradio-webUI in your browser.
 
 Add your location of the models you have downloaded in the top left corner if the pre-filled location doesn't already work, add your lyrics, tweak the cfg and press generate. It names the output-files (You can choose between wave, flac and mp3) with a timestamp.
